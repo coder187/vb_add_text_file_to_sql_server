@@ -1,0 +1,10 @@
+C:\Jonathan\EE\ReadFile\readFile\bin\Debug\readFile.exe
+C:\Jonathan\EE\ReadFile\readFile\bin\Debug\readFile.pdb
+C:\Jonathan\EE\ReadFile\readFile\bin\Debug\readFile.xml
+C:\Jonathan\EE\ReadFile\readFile\obj\Debug\readFile.vbprojAssemblyReference.cache
+C:\Jonathan\EE\ReadFile\readFile\obj\Debug\readFile.Resources.resources
+C:\Jonathan\EE\ReadFile\readFile\obj\Debug\readFile.vbproj.GenerateResource.cache
+C:\Jonathan\EE\ReadFile\readFile\obj\Debug\readFile.vbproj.CoreCompileInputs.cache
+C:\Jonathan\EE\ReadFile\readFile\obj\Debug\readFile.exe
+C:\Jonathan\EE\ReadFile\readFile\obj\Debug\readFile.xml
+C:\Jonathan\EE\ReadFile\readFile\obj\Debug\readFile.pdb
