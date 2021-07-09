@@ -1,4 +1,5 @@
-﻿Imports System.Data.SqlClient
+'example program to read text file and insert ea rec to sql server
+Imports System.Data.SqlClient
 Imports System.IO
 Module Module1
 
