@@ -4,7 +4,7 @@ Module Module1
 
 
     Sub Main()
-        Dim conStr As String = "Server=;Database=webby;Trusted_Connection=True;"
+        Dim conStr As String = "Server=SERVER;Database=DB;Trusted_Connection=True;"
         Dim dbCnn As SqlConnection = New SqlConnection(conStr)
 
         Dim fileReader As StreamReader
